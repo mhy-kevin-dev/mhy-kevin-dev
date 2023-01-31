@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 
   <p>
     <a href="https://github.com/mhy-kevin-dev">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://streak-stats.demolab.com/?user=mhy-kevin-dev&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://streak-stats.demolab.com/?user=mhy-kevin-dev&theme=monokai-metallian&hide_border=true&mode=weekly"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
