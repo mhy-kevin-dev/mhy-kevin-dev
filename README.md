@@ -114,3 +114,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+    <a href="https://github.com/mhy-kevin-dev">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kevin's streak" src="https://streak-stats.demolab.com/?user=mhy-kevin-dev&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+</details>
