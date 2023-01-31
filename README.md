@@ -79,7 +79,7 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-D22128.svg?logo=arch-linux&logoColor=white"></a>
+      <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
