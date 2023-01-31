@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/ming-han-yang-480145109">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:mh.kevin.yang@gmail.com">
+<a href="mailto:mh.kevin.yang@outlook.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
