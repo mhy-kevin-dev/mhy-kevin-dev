@@ -16,7 +16,9 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
+- 💻 6+ years of programming experience and knowledge in machine learning, particularly in speech recognition.
 - 🎓 Conducting research and applications on AI and Speech Recognition
+- 📚 Always learning
 - 📫 How to reach me: mh.kevin.yang@outlook.com
 
 <!--
