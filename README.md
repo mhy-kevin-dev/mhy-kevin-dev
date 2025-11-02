@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=300&multiline=true&width=435&height=80&lines=Kevin+Yang;Senior+Speech+Algorithm+Engineer;AI+%7C+Speech+Recognition)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ming-Han+Yang;Staff+AI+Engineer)](https://git.io/typing-svg)
 
 <a href="https://mhy-kevin-dev.github.io">
     <img src="https://img.shields.io/badge/Website-github.io-red?style=flat-square">
