@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-- 💼 I’m a senior AI algorithm engineer in ASUS.
+- 💼 I’m a staff AI engineer in ASUS.
 - 🎓 Conducting research and developing applications on AI and Speech Recognition
 - 📚 Always learning!
-- 📫 How to reach me: mh.kevin.yang@outlook.com
+- 📫 How to reach me: mh.kevin.yang@gmail.com
 
 <details> 
   <summary><h2>🛠️ Commonly Used Tools</h2></summary>
