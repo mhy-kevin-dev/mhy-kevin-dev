@@ -17,7 +17,7 @@
 </a>
 
 - 💼 I’m a staff software engineer in ASUS.
-- ✍️ Led training, data curation, and evaluation for Multilingual ASR model; delivered measurable accuracy gains across Mandarin, English, Taiwanese, and Hakka through targeted data pipeline improvements and task-specific fine-tuning.
+- ✍️ Led training, data curation, and evaluation for LLM-ASR model; delivered measurable accuracy gains across Mandarin, English, Taiwanese, and Hakka through targeted data pipeline improvements and task-specific fine-tuning.
 - 🎓 Designed and built AI-powered robotic systems, integrating LLMs and speech technologies with full-stack system development and applied research.
 - 📚 Always learning!
 - 📫 How to reach me: mh.kevin.yang@gmail.com
