@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-- 💼 I’m a staff AI engineer in ASUS.
+- 💼 I’m a staff software engineer in ASUS.
 - ✍️ Led training, data curation, and evaluation for Multilingual ASR model; delivered measurable accuracy gains across Mandarin, English, Taiwanese, and Hakka through targeted data pipeline improvements and task-specific fine-tuning.
 - 🎓 Designed and built AI-powered robotic systems, integrating LLMs and speech technologies with full-stack system development and applied research.
 - 📚 Always learning!
