@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ming-Han+Yang;Staff+AI+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ming-Han+%28Kevin%29+Yang;Staff+Software+Engineer" alt="Typing SVG" /></a>
 
 <a href="https://mhy-kevin-dev.github.io">
     <img src="https://img.shields.io/badge/Website-github.io-red?style=flat-square">
